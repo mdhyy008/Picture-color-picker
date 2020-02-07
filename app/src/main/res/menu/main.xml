@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item android:title="打开图片"
+        android:icon="@drawable/open1"
+        app:showAsAction="always"
+        android:id="@+id/open1"
+        />
+    <item android:title="复制"
+        android:icon="@drawable/copy1"
+        app:showAsAction="always"
+        android:id="@+id/copy1"
+        />
+
+
+</menu>
